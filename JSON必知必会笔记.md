@@ -29,3 +29,9 @@ JSON的MIME类型是application/json。
 JSON中使用true和false来表示布尔值。其他的表示都是错误的。
 在JavaScript中，undefined是在尝试获取一些不存在的对象或变量时返回的结果。
 null是字面量，而undefined是变量。
+JSON Schema的用途就在于一致性验证。
+真正会产生安全问题的是JSON的使用。
+CSRF攻击是一种JSON的安全漏洞，它和GET/POST以及顶层数组有关。
+JSON资源可以通过一个URL来请求。
+这种节约时间、专注重点的框架在计算机科学中也被称为抽象化工具。
+抽象化工具是一种自上而下式的工具。
